@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LangTranslation</string>
+    <string name="translated_text_hint">Translated Text</string>
+    <string name="translated_progress">Translating</string>
+    <string name="unknown_err">Unknown error</string>
+    <string name="en">en</string>
+    <string name="fr">fr</string>
+    <string name="hint">Enter text to translate</string>
+</resources>
